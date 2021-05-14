@@ -1,6 +1,6 @@
 # Stonks Dashboard
 
-![alt text](https://github.com/KylevanHeerden/3D_animation_card/blob/main/pro0.png)
+![alt text](https://github.com/KylevanHeerden/stonks_dashboard/blob/main/pro0.png)
 
 
 ## Project setup
